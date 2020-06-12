@@ -1,5 +1,5 @@
 # Redux-Hooks-Intro-2
-Simples example of Redux with Hooks.
+Simple example of Redux with Hooks.
 
 ## About the exercise
 
